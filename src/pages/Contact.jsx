@@ -282,7 +282,7 @@ export default function Contact() {
                     full: true,
                     content: (
                       <span className="text-graphite text-sm font-body leading-relaxed">
-                        Flat 1113, 1st Floor, Chikitsak Nagar,
+                        308 Shagun Tower,
                         <br />
                         Vijay Nagar, Indore, MP — 452010
                       </span>

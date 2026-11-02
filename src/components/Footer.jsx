@@ -163,7 +163,7 @@ export default function Footer() {
                 />
                 <span className="leading-relaxed">
                   <span className="whitespace-nowrap">
-                    Flat 1113, 1st Floor, Chikitsak Nagar,
+                   308 Shagun Tower
                   </span>
                   <br />
                   Vijay Nagar, Indore, MP — 452010
